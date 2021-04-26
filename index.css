@@ -1,0 +1,22 @@
+#tx{
+    position: absolute;
+    top: 100px;
+    left: 15px;
+    border: radius 200px;;
+}
+.ctent{
+    width:200px;height:100px;;
+    margin:0 auto; margin-top:50px;
+}
+.tp{
+    top: 210px;
+    left: 45px;
+    position:absolute;
+    width:1000px;;
+}
+.biaot{
+    position:absolute;
+    top: 60px;
+    left: 50px;
+
+}
